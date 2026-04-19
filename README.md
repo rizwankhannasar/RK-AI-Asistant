@@ -57,9 +57,13 @@ Safari ✔️
 ❌ CORS Issue: Run using python -m http.server or Live Server
 ❌ API Error: Check console + OpenRouter API key
 ❌ No Response: Check internet connection
-🤝 Connect with Me
+
+## 🤝 Connect with Me
 💻 GitHub: GitHub https://github.com/rizwankhannasar
+
 🔗 LinkedIn: LinkedIn https://www.linkedin.com/in/rizwan-khan-nasar-35b147360
+
 📧 Email: rizwankhannasar125@gmail.com
+
 ## ⭐ Final Note
  Enjoy chatting with your AI assistant!
