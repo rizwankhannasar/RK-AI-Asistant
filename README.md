@@ -1,62 +1,65 @@
-🤖 AI Chatbot Assistant
+### 🤖 AI Chatbot Assistant
 
-📌 Overview
+##📌 Overview
+Modern glassmorphism-style AI chatbot powered by OpenRouter API (GPT-4o-mini).
+It includes smooth animations, typing indicators, tool calling (e.g., get current time), and a fully responsive full-width layout.
 
-Modern glassmorphism-style AI chatbot powered by OpenRouter API (GPT-4o-mini). Features smooth animations, typing indicators, tool calling, and responsive full-width layout.
+## ✨ Features
+💬 Real-time AI chat assistant
+🎨 Glassmorphism UI design
+⌨️ Typing indicator animation
+✨ Smooth message animations
+📜 Custom scrollbar styling
+🧠 Tool calling support (get_time function)
+📱 Fully responsive design
 
-Full-width chat container fix applied: Chat now spans 100% of the page display.
-
-✨ Features
-Real-time chat with AI assistant
-Glassmorphism UI design
-Typing indicator
-Message animations
-Custom scrollbar
-Tool calling support (get_time function)
-Responsive design
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: HTML5, CSS3 (Glassmorphism), Vanilla JavaScript
-Backend: OpenRouter API (GPT-4o-mini model)
+Backend/API: OpenRouter API (GPT-4o-mini model)
 Fonts: Google Fonts (Inter)
 
-🚀 Quick Start
-Open index.html directly in your web browser (no server needed).
-Chat interface loads immediately.
-Type messages and press Enter or click Send.
+## 🚀 Quick Start
+Open index.html in your browser (no server required)
+Chat interface loads automatically
+Type a message and press Enter or click Send
 
-🔑 API Configuration
-Uses OpenRouter API key (configured in script.js for demo).
+## 🔑 API Configuration
+Uses OpenRouter API key (set in script.js)
 
-⚠️ Security Note: API key is client-side for local development only. For production, use a backend proxy.
-Edit OPENROUTER_API_KEY in script.js for your own key.
+## ⚠️ Security Note: API key is exposed for local development only
+For production, use a backend proxy
+Replace OPENROUTER_API_KEY in script.js with your own key
 
-🎨 Customization
+## 🎨 Customization
 Model: Change model in script.js
-Tools: Extend tools array in script.js
-Styling: Modify CSS variables in :root of style.css
-System Prompt: Update conversationHistory[0].content
+Tools: Extend tools array
+Styling: Edit CSS variables in :root of style.css
+System Prompt: Modify conversationHistory[0].content
 
-📂 Files
-logo.png - Project logo
-index.html - Main UI structure
-style.css - Glassmorphism styling & animations
-script.js - Chat logic & API calls
-TODO.md - Development tracker
-agent.py - (Unused in frontend version)
-logos/logo.svg - Alternative logo
+## 📂 Project Files
+logo.png → Project logo
+index.html → Main UI structure
+style.css → Styling, animations, layout
+script.js → Chat logic + API integration
+TODO.md → Development tracking
+agent.py → (Not used in frontend version)
+logos/logo.svg → Alternative logo
 
-🌐 Browser Support
-Modern browsers (Chrome, Firefox, Safari, Edge)
-Best experience on desktop (fully responsive on mobile)
+## 🌐 Browser Support
+Chrome ✔️
+Firefox ✔️
+Edge ✔️
+Safari ✔️
+
+## 💡 Best experience on desktop, fully responsive on mobile.
 
 🧩 Troubleshooting
-CORS Issues → Run using python -m http.server or Live Server
-API Errors → Check console & API key
-No Response → Verify internet connection
-
+❌ CORS Issue: Run using python -m http.server or Live Server
+❌ API Error: Check console + OpenRouter API key
+❌ No Response: Check internet connection
 🤝 Connect with Me
 💻 GitHub: GitHub https://github.com/rizwankhannasar
 🔗 LinkedIn: LinkedIn https://www.linkedin.com/in/rizwan-khan-nasar-35b147360
 📧 Email: rizwankhannasar125@gmail.com
-
-⭐ Enjoy chatting with your AI assistant!
+## ⭐ Final Note
+ Enjoy chatting with your AI assistant!
