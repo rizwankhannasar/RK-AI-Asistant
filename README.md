@@ -1,7 +1,7 @@
 # AI Chatbot Assistant ![Logo](logo.png)
 
 ## Overview
-Modern glassmorphism-style AI chatbot powered by OpenRouter API (GPT-4o-mini). Features smooth animations, typing indicators, tool calling (e.g., get current time), and responsive full-width layout.
+Modern glassmorphism-style AI chatbot powered by OpenRouter API (GPT-4o-mini). Features smooth animations, typing indicators, tool calling, and responsive full-width layout.
 
 **Full-width chat container fix applied**: Chat now spans 100% of the page display.
 
